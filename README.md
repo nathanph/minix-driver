@@ -586,3 +586,9 @@ int main(void) {
     printf("CLOSE\n\n");
 }
 ```
+
+## Screenshots
+![SS1](/images/ss1.png?raw=true)
+![SS2](/images/ss2.png?raw=true)
+![SS3](/images/ss3.png?raw=true)
+![SS4](/images/ss4.png?raw=true)
